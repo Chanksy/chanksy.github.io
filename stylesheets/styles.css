@@ -63,6 +63,19 @@ a:hover small {
   margin:0 auto;
 }
 
+.row, .col {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.col { flex-direction: column; }
+.spacer-0 { width: 0; height: 0; }
+.spacer-1 { width: 5px; height: 5px; }
+.spacer-2 { width: 10px; height: 10px; }
+.spacer-grow { flex-grow: 1; }
+
+
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
