@@ -1,25 +1,27 @@
 @font-face {
     font-family: 'OpenSauceSans-Bold';
     font-style: normal;
-    font-weight: 700;
     src: url("https://chanksy.github.io/docs/assets/OpenSauceSans-Bold.ttf") format("opentype");
     font-weight: bold;
 }
 
 @font-face {
     font-family: 'OpenSauceSans-Regular';
+    font-style: normal;
     src: url("https://chanksy.github.io/docs/assets/OpenSauceSans-Regular.ttf") format("opentype");
     font-weight: normal;
 }
 
 @font-face {
     font-family: 'OpenSauceSans-Light';
+    font-style: normal;
     src: url("https://chanksy.github.io/docs/assets/OpenSauceSans-Light.ttf") format("opentype");
     font-weight: 300;
 }
 
 @font-face {
     font-family: 'OpenSauceSans-Medium';
+    font-style: normal;
     src: url("https://chanksy.github.io/docs/assets/OpenSauceSans-Medium.ttf") format("opentype");
     font-weight: 500;
 }
