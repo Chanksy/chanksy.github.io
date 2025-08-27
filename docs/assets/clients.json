@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "clientName": "10 Chancery Lane Gallery",
+    "fair": "FRIEZE",
+    "booth": "C21"
+  },
+  {
+    "id": 2,
+    "clientName": "Vacancy / P21",
+    "fair": "FRIEZE",
+    "booth": "A33"
+  },
+  {
+    "id": 3,
+    "clientName": "MENNOUR",
+    "fair": "FRIEZE",
+    "booth": "B20"
+  },
+  {
+    "id": 4,
+    "clientName": "Thaddeus Ropac",
+    "fair": "FRIEZE",
+    "booth": "C05"
+  },
+  {
+    "id": 5,
+    "clientName": "Jason Haam",
+    "fair": "FRIEZE",
+    "booth": "C25"
+  },
+  {
+    "id": 6,
+    "clientName": "Massimo Decarlo",
+    "fair": "FRIEZE",
+    "booth": "B9"
+  },
+  {
+    "id": 7,
+    "clientName": "Galerie Du Monde",
+    "fair": "FRIEZE",
+    "booth": "M11"
+  },
+  {
+    "id": 8,
+    "clientName": "Mazzoleni",
+    "fair": "FRIEZE",
+    "booth": "M07"
+  },
+  {
+    "id": 9,
+    "clientName": "A Lighthouse called Kanata",
+    "fair": "FRIEZE",
+    "booth": "M20"
+  },
+  {
+    "id": 10,
+    "clientName": "TOMIO KOYAMA GALLERY",
+    "fair": "FRIEZE",
+    "booth": "C08"
+  },
+  {
+    "id": 11,
+    "clientName": "Taro Nasu",
+    "fair": "FRIEZE",
+    "booth": "B15"
+  },
+  {
+    "id": 12,
+    "clientName": "Anomaly",
+    "fair": "FRIEZE",
+    "booth": "A37"
+  },
+  {
+    "id": 13,
+    "clientName": "Art Front",
+    "fair": "FRIEZE",
+    "booth": "M03"
+  },
+  {
+    "id": 14,
+    "clientName": "Kenji Taki",
+    "fair": "FRIEZE",
+    "booth": "B13"
+  },
+  {
+    "id": 15,
+    "clientName": "Kosaku Kanechika",
+    "fair": "FRIEZE",
+    "booth": "C24"
+  },
+  {
+    "id": 16,
+    "clientName": "Kotaro Nukaga",
+    "fair": "FRIEZE",
+    "booth": "M06"
+  },
+  {
+    "id": 17,
+    "clientName": "Maho Kubota",
+    "fair": "FRIEZE",
+    "booth": "B11"
+  },
+  {
+    "id": 18,
+    "clientName": "Misa Shin",
+    "fair": "FRIEZE",
+    "booth": "A22"
+  },
+  {
+    "id": 19,
+    "clientName": "Nanzuka",
+    "fair": "FRIEZE",
+    "booth": "C12"
+  },
+  {
+    "id": 20,
+    "clientName": "OTA Fine arts",
+    "fair": "FRIEZE",
+    "booth": "A04"
+  },
+  {
+    "id": 21,
+    "clientName": "Take Ninagawa",
+    "fair": "FRIEZE",
+    "booth": "A34"
+  },
+  {
+    "id": 22,
+    "clientName": "Takuro Someya Contemporary",
+    "fair": "FRIEZE",
+    "booth": "C20"
+  },
+  {
+    "id": 23,
+    "clientName": "Yutaka Kikutake",
+    "fair": "FRIEZE",
+    "booth": "C06"
+  },
+  {
+    "id": 24,
+    "clientName": "Parcel",
+    "fair": "FRIEZE",
+    "booth": "F3"
+  },
+  {
+    "id": 25,
+    "clientName": "Blind Spot",
+    "fair": "FRIEZE",
+    "booth": "B16"
+  },
+  {
+    "id": 26,
+    "clientName": "Dirimart",
+    "fair": "FRIEZE",
+    "booth": "A29"
+  },
+  {
+    "id": 27,
+    "clientName": "Meyer Rigger Wolff",
+    "fair": "FRIEZE",
+    "booth": "A24"
+  },
+  {
+    "id": 28,
+    "clientName": "Gagosian",
+    "fair": "FRIEZE",
+    "booth": "C09"
+  },
+  {
+    "id": 29,
+    "clientName": "Ruinart",
+    "fair": "FRIEZE",
+    "booth": "S04"
+  },
+  {
+    "id": 30,
+    "clientName": "LINSEED",
+    "fair": "FRIEZE",
+    "booth": "F07"
+  },
+  {
+    "id": 31,
+    "clientName": "Cassina Projects",
+    "fair": "KIAF",
+    "booth": "A83"
+  },
+  {
+    "id": 32,
+    "clientName": "Art of the World Gallery",
+    "fair": "KIAF",
+    "booth": "A38"
+  },
+  {
+    "id": 33,
+    "clientName": "Galerie Vaziuex",
+    "fair": "KIAF",
+    "booth": "A72"
+  },
+  {
+    "id": 34,
+    "clientName": "Gallery Baton",
+    "fair": "FRIEZE",
+    "booth": "C01"
+  },
+  {
+    "id": 35,
+    "clientName": "FRIEZE PLATZ",
+    "fair": "FRIEZE",
+    "booth": "2nd FLOOR"
+  }
+]
