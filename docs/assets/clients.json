@@ -3,210 +3,315 @@
     "id": 1,
     "clientName": "10 Chancery Lane Gallery",
     "fair": "FRIEZE",
-    "booth": "C21"
+    "booth": "C21",
+    "moveInFolderId": "1t9EhPnQkQ0RDb-513FfC-oNNa3BrUYxL",
+    "moveOutFolderId": "1ZK7vNBwsZafs0oPyh5XOOxdwSCsRzQF_",
+    "swapFolderId": "1La9ORwynHP_KwR92fcqXUy43z516okBC"
   },
   {
     "id": 2,
     "clientName": "Vacancy / P21",
     "fair": "FRIEZE",
-    "booth": "A33"
+    "booth": "A33",
+    "moveInFolderId": "1W_xntmzSB_pxR1WYmhoPRzFsssaY6rsu",
+    "moveOutFolderId": "1jULQslWXBi5lE2YDQlVQQP1k_vkp7vUe",
+    "swapFolderId": "1iSq34heNyzlgVFwTz0ZNG2CVUqpNdqaK"
   },
   {
     "id": 3,
     "clientName": "MENNOUR",
     "fair": "FRIEZE",
-    "booth": "B20"
+    "booth": "B20",
+    "moveInFolderId": "1RMmB8uXm9gDgBTdF4TkC7DB9uaLTRr9M",
+    "moveOutFolderId": "1X-XGXhKE_v11w0u13umXkmRiwDZapcO6",
+    "swapFolderId": "1FmUbsT5LDhKkdu4EOcOc6URxkAISRQ2v"
   },
   {
     "id": 4,
     "clientName": "Thaddeus Ropac",
     "fair": "FRIEZE",
-    "booth": "C05"
+    "booth": "C05",
+    "moveInFolderId": "18-orZvuEp8iaffO2hbSRpryQmIrYv8Pf",
+    "moveOutFolderId": "1xKgIDzMky4yPOGfwlBnwIzGlc6o8-iDV",
+    "swapFolderId": "1jagVzfTYfyoL2KE82rs8W3CDuruCqBE2"
   },
   {
     "id": 5,
     "clientName": "Jason Haam",
     "fair": "FRIEZE",
-    "booth": "C25"
+    "booth": "C25",
+    "moveInFolderId": "19rTf-bWPgHFYFubDEmbk5_iHRrxNoXAd",
+    "moveOutFolderId": "1W_NMgpVtpBaUbZwF73WbMksRix2r9R7X",
+    "swapFolderId": "1Nle0iPQeU1VOUvKlW4lXUzI2EkbN6Yu-"
   },
   {
     "id": 6,
     "clientName": "Massimo Decarlo",
     "fair": "FRIEZE",
-    "booth": "B9"
+    "booth": "B9",
+    "moveInFolderId": "1eT1YfLDHlOwlOji3EZ5I7DEiMCG4cGsJ",
+    "moveOutFolderId": "19v5lUW48URa2sPjeHO25kXInNZRL47n1",
+    "swapFolderId": "11HQB9vbuKuM1RDVFX-Oy2rCjBGLEaH85"
   },
   {
     "id": 7,
     "clientName": "Galerie Du Monde",
     "fair": "FRIEZE",
-    "booth": "M11"
+    "booth": "M11",
+    "moveInFolderId": "13umUlYuHwuIpXivO5IQBw-GDQ8Z1nqS_",
+    "moveOutFolderId": "1quMEAnVF54NRpdeHS7yaDRm0HlEQA5Lr",
+    "swapFolderId": "1DZs3_i6tPuvSXwB5nbFxpTzFHvysVF1T"
   },
   {
     "id": 8,
     "clientName": "Mazzoleni",
     "fair": "FRIEZE",
-    "booth": "M07"
+    "booth": "M07",
+    "moveInFolderId": "1g1sVDhh4MBSVmSbRIX2dSwVhC0UyqhHd",
+    "moveOutFolderId": "1lwVwphJhD1QMYfu2lTNIDgN4Un06bs-E",
+    "swapFolderId": "1lwVwphJhD1QMYfu2lTNIDgN4Un06bs-E"
   },
   {
     "id": 9,
     "clientName": "A Lighthouse called Kanata",
     "fair": "FRIEZE",
-    "booth": "M20"
+    "booth": "M20",
+    "moveInFolderId": "16INiqVebsXDAwJZBK0gMDIC1DXNqkjxo",
+    "moveOutFolderId": "1T6tZmB65G4o5SHJnDdAAcsBCMXPf7tN5",
+    "swapFolderId": "1HI7cHkLqc9ff-jFNBgbSKHrfQ5hmVV5D"
   },
   {
     "id": 10,
     "clientName": "TOMIO KOYAMA GALLERY",
     "fair": "FRIEZE",
-    "booth": "C08"
+    "booth": "C08",
+    "moveInFolderId": "1uUX_KOMLYQsQIL3j19D6BDT1glpz8ok7",
+    "moveOutFolderId": "1_uXteDvZDTnfeLO7ry9j87Ehoj6dajsU",
+    "swapFolderId": "16yB-Pjgema1v3ZMNOc9o8gq81mRidaMi"
   },
   {
     "id": 11,
     "clientName": "Taro Nasu",
     "fair": "FRIEZE",
-    "booth": "B15"
+    "booth": "B15",
+    "moveInFolderId": "1N1wE2WPJpv_sp9yE2v-eAbyl-u_JhTy9",
+    "moveOutFolderId": "17coe8CytlObOLOvRMJG4BbXEHNfSbPJb",
+    "swapFolderId": "181f4z8fhmyEyL7HiwZTMZnSFHd7vz7bT"
   },
   {
     "id": 12,
     "clientName": "Anomaly",
     "fair": "FRIEZE",
-    "booth": "A37"
+    "booth": "A37",
+    "moveInFolderId": "1p5vwLpYXu-QoNd5F2Hc5uJQD3wnQRyPa",
+    "moveOutFolderId": "1jLOBg7KU3vuCp_n2KSqcaQQBAAgVxVXh",
+    "swapFolderId": "10ilt265OsiCrL0IK-Jc72lP6Gm5RPjLi"
   },
   {
     "id": 13,
     "clientName": "Art Front",
     "fair": "FRIEZE",
-    "booth": "M03"
+    "booth": "M03",
+    "moveInFolderId": "1Igsu5h0vTsDXsjMRrv28wNqC0-_nKuyS",
+    "moveOutFolderId": "1J_xd8GrqWp1qe_g_Nb226v6hu18HjMiE",
+    "swapFolderId": "17IJMammSKOqvcsnjUzTOxHcfp87SLDFr"
   },
   {
     "id": 14,
     "clientName": "Kenji Taki",
     "fair": "FRIEZE",
-    "booth": "B13"
+    "booth": "B13",
+    "moveInFolderId": "1-be-k1CkPCS_VXeiA6qndoJYtCZunVGW",
+    "moveOutFolderId": "1TOQFmg7OWkFMXCL_4aa07gGcRzSZw5t7",
+    "swapFolderId": "1imIlCgBL7o5P4BD-TCMK8v6oXl8mAZ7T"
   },
   {
     "id": 15,
     "clientName": "Kosaku Kanechika",
     "fair": "FRIEZE",
-    "booth": "C24"
+    "booth": "C24",
+    "moveInFolderId": "1c7fSzfuGs3djyqnnq6y22eyIaCNLPTlM",
+    "moveOutFolderId": "1OuDmkXCU6r-hSj-i-GixgumEBMYPRqh0",
+    "swapFolderId": "1RFevWqrowVxT12N9-275y4FuTsy4skzK"
   },
   {
     "id": 16,
     "clientName": "Kotaro Nukaga",
     "fair": "FRIEZE",
-    "booth": "M06"
+    "booth": "M06",
+    "moveInFolderId": "1YWBH1WrOlfSFl_I812F-vkdwu0tYIK5I",
+    "moveOutFolderId": "1ILfcKuCttVA80J94MqpOgqecvMCrQEkX",
+    "swapFolderId": "1HdPriXhTZyFua9nTe3ArcJdee-1vW77i"
   },
   {
     "id": 17,
     "clientName": "Maho Kubota",
     "fair": "FRIEZE",
-    "booth": "B11"
+    "booth": "B11",
+    "moveInFolderId": "1pZWCWgCIxedHGBznfEmmxBWguj5vmnKp",
+    "moveOutFolderId": "1Ms_jcxtKCotgzzt7vgGoZSC61cX0rFV7",
+    "swapFolderId": "15E23ZdG7BJ7v4JtgnyZRxqdokkHmyNXZ"
   },
   {
     "id": 18,
     "clientName": "Misa Shin",
     "fair": "FRIEZE",
-    "booth": "A22"
+    "booth": "A22",
+    "moveInFolderId": "1b727ohBLQtupLLrQNHLQMsX2BDTERAi4",
+    "moveOutFolderId": "1b727ohBLQtupLLrQNHLQMsX2BDTERAi4",
+    "swapFolderId": "1cCH4rolVERr7TjIRlyuZawgmOy-v9toF"
   },
   {
     "id": 19,
     "clientName": "Nanzuka",
     "fair": "FRIEZE",
-    "booth": "C12"
+    "booth": "C12",
+    "moveInFolderId": "1_DMtUCP_5lmgzFvwo5TNOs26YqcC58Q8",
+    "moveOutFolderId": "1rO6_i0XKipfpdYOpOzkO41hG84lPLFIJ",
+    "swapFolderId": "1pkj_UCxjTw98kislb8C8Ci2c-N-m_-TT"
   },
   {
     "id": 20,
     "clientName": "OTA Fine arts",
     "fair": "FRIEZE",
-    "booth": "A04"
+    "booth": "A04",
+    "moveInFolderId": "1ze0Cw8-A-TXI3aDtIIY77bLVbvVaJeEW",
+    "moveOutFolderId": "1Euuz1260IGKToHDsVD4UsQQEZOexu7MB",
+    "swapFolderId": "1KtdeJJEtu04rNyDlQiZqVkvSiTLNsuXm"
   },
   {
     "id": 21,
     "clientName": "Take Ninagawa",
     "fair": "FRIEZE",
-    "booth": "A34"
+    "booth": "A34",
+    "moveInFolderId": "1_FIPMMaUQ_SUtnLB3g73Rc_vacARIXJ7",
+    "moveOutFolderId": "11-wUYfpmUZDrhkTUBu244bS7aHwELqm_",
+    "swapFolderId": "1P8iUyZujwG5FCXfo-lGinVzSmz8xLYE0"
   },
   {
     "id": 22,
     "clientName": "Takuro Someya Contemporary",
     "fair": "FRIEZE",
-    "booth": "C20"
+    "booth": "C20",
+    "moveInFolderId": "1BWe4vJPff0cxh6hUOKQXuc5YX7Zz_DiX",
+    "moveOutFolderId": "1QSgRnefq9qNah2IaEybooJdNv7BCtfCC",
+    "swapFolderId": "1KkIt3R4qF0V2o1PjVN6HBQsvsG6gK2Bg"
   },
   {
     "id": 23,
     "clientName": "Yutaka Kikutake",
     "fair": "FRIEZE",
-    "booth": "C06"
+    "booth": "C06",
+    "moveInFolderId": "1sC5vAUPJv3s2Fe49fcP0BxcH5HaX0FE4",
+    "moveOutFolderId": "17okWxmQEEJBq_YOfQyrGz_WY2hXQ3UfO",
+    "swapFolderId": "1yYz_2cuvndf_Cn0TEvxd3C09jAuMiMkU"
   },
   {
     "id": 24,
     "clientName": "Parcel",
     "fair": "FRIEZE",
-    "booth": "F3"
+    "booth": "F3",
+    "moveInFolderId": "1ek9nhSXfZzay1sNCEdMyyrIbnwGL9UgK",
+    "moveOutFolderId": "1EPVyARwLz6vMVNcGfybTqf3IZK3HYbg7",
+    "swapFolderId": "1PMPiLUP184YdL-BZByz2UlcqcynQYtlq"
   },
   {
     "id": 25,
     "clientName": "Blind Spot",
     "fair": "FRIEZE",
-    "booth": "B16"
+    "booth": "B16",
+    "moveInFolderId": "12_-ClBg_1FO0aAZYE6EH8LlHbY_etPqS",
+    "moveOutFolderId": "1OCV3xEjEsAuzKeIWfNNwr-y-PC4Teu4f",
+    "swapFolderId": "1fi9IKNcTvURdoHulLFLK39JyZ4LTulcD"
   },
   {
     "id": 26,
     "clientName": "Dirimart",
     "fair": "FRIEZE",
-    "booth": "A29"
+    "booth": "A29",
+    "moveInFolderId": "1vcFftN2XILkPK4AbYPHEvUDgshYJ5YMi",
+    "moveOutFolderId": "1IKlJq1cK--R3eOK1muXJBFa87s3lRp2_",
+    "swapFolderId": "1co5uJAq-saFT_76r2xTDh0Xy1GjzFD2s"
   },
   {
     "id": 27,
     "clientName": "Meyer Rigger Wolff",
     "fair": "FRIEZE",
-    "booth": "A24"
+    "booth": "A24",
+    "moveInFolderId": "1I-j5QznR5ehXCW6I81vq23iOJHRFGW4n",
+    "moveOutFolderId": "1I-j5QznR5ehXCW6I81vq23iOJHRFGW4n",
+    "swapFolderId": "1eeMgkyP5tRswfJV5mTSiv1-C8PVDYlW-"
   },
   {
     "id": 28,
     "clientName": "Gagosian",
     "fair": "FRIEZE",
-    "booth": "C09"
+    "booth": "C09",
+    "moveInFolderId": "1sQIl33kl5h_z-brG2QTeqQ4OvqWh7kfp",
+    "moveOutFolderId": "1Atz3E7JoU7W6XhjZxX2pmc3K7_R5Rez0",
+    "swapFolderId": "1bHyl7UBa7aWpqeMufpoj3cw3SE2GonBp"
   },
   {
     "id": 29,
     "clientName": "Ruinart",
     "fair": "FRIEZE",
-    "booth": "S04"
+    "booth": "S04",
+    "moveInFolderId": "1uCz7dYImGEXMRT3zUwycbofKKyhEG3av",
+    "moveOutFolderId": "1ZpyKZIDwTXhZb18bAOYPbD7qhZQXcxzj",
+    "swapFolderId": "1eWibgeDNlTtVJA-jJu79kTIMbLymqNSB"
   },
   {
     "id": 30,
     "clientName": "LINSEED",
     "fair": "FRIEZE",
-    "booth": "F07"
+    "booth": "F07",
+    "moveInFolderId": "1ji0HMjoTfkLEyP9gv_tee34dBCN7rV1T",
+    "moveOutFolderId": "1YymsxXT0mmamlXsU_hQmfeAafGNy7qMH",
+    "swapFolderId": "1FN7RWhcXQddTlvVbemS3Gq93t-ejKTYB"
   },
   {
     "id": 31,
     "clientName": "Cassina Projects",
     "fair": "KIAF",
-    "booth": "A83"
+    "booth": "A83",
+    "moveInFolderId": "1ygnLFQ9mkd-Ct3jjqrMpvJSC083t1929",
+    "moveOutFolderId": "1eNGfZAFec5EikBVb9SnjQFBkyJXWyVeM",
+    "swapFolderId": "1RxgLjgng9ysRa-wrXAI62VY8WjLYXkO8"
   },
   {
     "id": 32,
     "clientName": "Art of the World Gallery",
     "fair": "KIAF",
-    "booth": "A38"
+    "booth": "A38",
+    "moveInFolderId": "1OZDy4TSsNbTKWU8EqOSKK2RFxmodU52O",
+    "moveOutFolderId": "1f1q4kjuDeUNkUJ9YHjTgsSKqx-rFezxh",
+    "swapFolderId": "1mf1a_jaDUno3cdNdNDHZZYWFwM1Q-C_z"
   },
   {
     "id": 33,
     "clientName": "Galerie Vaziuex",
     "fair": "KIAF",
-    "booth": "A72"
+    "booth": "A72",
+    "moveInFolderId": "1uIpvZiZ84Fc2bozwynEYDRPoNHuslrTd",
+    "moveOutFolderId": "1C6NAFxEPUwMuJhZ7hBlLYy7ey5XfyzRQ",
+    "swapFolderId": "1Dkyr3BXt-MysGoC2pWclEi8VpRJpxPvb"
   },
   {
     "id": 34,
     "clientName": "Gallery Baton",
     "fair": "FRIEZE",
-    "booth": "C01"
+    "booth": "C01",
+    "moveInFolderId": "14lzwf_s5h0B1tKH8WHGm6r9xNSkT9250",
+    "moveOutFolderId": "1zGQqB2EKuMbe8MCjzyQ2jlvKFm52bfNE",
+    "swapFolderId": "12aZdkWHvgKLPhZmQcWVqAFDfkTiuA93q"
   },
   {
     "id": 35,
     "clientName": "FRIEZE PLATZ",
     "fair": "FRIEZE",
-    "booth": "2nd FLOOR"
+    "booth": "2nd FLOOR",
+    "moveInFolderId": "1va_xY0A8w20noBrA_BLCJ4RpVu6VMqsM",
+    "moveOutFolderId": "1gMFzA25Ns2tUqLeY13rsxT8t-YjxXBc2",
+    "swapFolderId": "1b1SbLlXoiyHrexj5YEupSfIieAmv-dDw"
   }
 ]
